@@ -1,0 +1,120 @@
+/* style.css */
+body { 
+    background-color: #59b269; 
+    font-family: 'Roboto', sans-serif; 
+    font-size: 14px;
+    color: white; 
+  } 
+  
+  h1 { 
+    font-size: 24px; 
+    font-weight: bold; 
+    color: rgb(255, 255, 255); 
+    text-align: center; 
+  } 
+  
+  h2 { 
+    font-size: 20px; 
+    font-weight: bold; 
+    color: rgb(255, 255, 255); 
+    text-align: center; 
+  } 
+  
+  li { 
+    font-size: 14px; 
+    font-weight: normal; 
+    color: rgb(255, 255, 255); 
+    margin-bottom: 10px; 
+  } 
+  
+  a { 
+    color: rgb(255, 255, 255); 
+    font-weight: bold; 
+    text-decoration: none; 
+  } 
+  
+  .tableauPlaceholder { 
+    position: absolute;
+    width: 400px; 
+    margin: 10px auto; 
+  }
+
+  img {
+    width: 150px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+  }
+
+  .backtotop {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+  }
+
+  .common {
+    background-color: #35a86f;
+    border: 2px solid #35a86f;
+    position: absolute;
+  }
+
+  .header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+  }
+
+  .leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 200px;
+    height: 775px;
+  }
+
+  .main {
+    top: 114px;
+    left: 214px;
+    right: 214px;
+    height: 775px;
+  }
+
+  .rightmenu {
+    top: 114px;
+    right: 5px;
+    width: 200px;
+    height: 775px;
+  }
+
+  .footer {
+    top: 898px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 1000px;
+  }
+
+  .paragraph {
+    position: absolute;
+    left: 7px;
+    right: 300px;
+  }
+
+  .video {
+    position: absolute;
+    top: 250px;
+    left: 150px;
+  }
+
+  .answer {
+    position: absolute;
+    top: 175px;
+    left: 15px;
+  }
+
+  .paragraph2 {
+    position: absolute;
+    left: 7px;
+    right: 300px;
+    top: 175px;
+  }
